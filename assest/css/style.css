@@ -21,12 +21,14 @@ body{
 header{
     overflow: hidden;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background: #4aaaa5;
-
+    
 }
 
 #name{
     color: #ffffff;
+    background: #4aaaa5;
+    width: 240px;
+    padding: 20px;
 }
 
 nav{
