@@ -46,6 +46,8 @@ nav{
 .nav-link {
     padding: 0px 5px 0px 3px;
     border-right: 2px solid #949494;
+    color: #333;
+    text-decoration: none;
 }
 
 .nav-link:last-child {
