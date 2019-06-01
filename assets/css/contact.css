@@ -2,7 +2,7 @@
     width: 960px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 50px;
+    margin-top: 20px;
     background-color: #ffffff;
     height: 700px;
     border: 3px solid #949494;
@@ -57,7 +57,7 @@ input[type=text], select {
   }
   
   input[type=submit]:hover {
-    background-color: #46a09b;
+    background-color: #347774;
   }
   
   .form {
